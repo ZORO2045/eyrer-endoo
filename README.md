@@ -1,7 +1,7 @@
 # Eyrer Endoo - Gift Code Generator
 
 ## Overview
-EYRER ENDOO this tool generates gift code links for telegram.
+Eyrer-Endoo this tool generates gift code links for telegram.
 
 ## Requirements
 
